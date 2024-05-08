@@ -1,4 +1,6 @@
-# Deploy by netflify https://quizconstrrr.netlify.app/
+# Deploy by netflify 
+
+https://quizconstrrr.netlify.app/
 
 # Getting Started with Create React App
 
