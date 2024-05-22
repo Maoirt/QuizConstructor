@@ -1,9 +1,5 @@
 h1{
     font-size: 40px;
-    /* margin: auto; */
-    font-weight: bold;
-    padding: 20px 0px;
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(169, 119, 44);
+    padding: 20px 0px;
 }
